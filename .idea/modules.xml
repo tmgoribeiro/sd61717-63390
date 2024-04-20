@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SDProj.iml" filepath="$PROJECT_DIR$/.idea/SDProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sd2324-proj-api/sd2324-tp1-api.iml" filepath="$PROJECT_DIR$/sd2324-proj-api/sd2324-tp1-api.iml" />
+    </modules>
+  </component>
+</project>
